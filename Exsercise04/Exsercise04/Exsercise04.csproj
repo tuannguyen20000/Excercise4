@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <AssemblyName>Exercise04</AssemblyName>
+    <ApplicationIcon />
+    <Win32Resource />
+    <StartupObject />
+    <RootNamespace>Exercise04</RootNamespace>
+  </PropertyGroup>
+
+</Project>
